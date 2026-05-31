@@ -1,5 +1,4 @@
 # stock-market-analysis-python
-# Stock Market Analysis with Yahoo Finance
 
 ## Overview
 
